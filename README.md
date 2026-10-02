@@ -81,3 +81,9 @@ lg-ecommerce-microservices/
 ├── .gitignore
 ├── README.md
 └── pom.xml
+
+
+## LG-101 Completion
+
+LG-101 establishes the initial repository structure, Maven configuration,
+Java 17 configuration, Git workflow and project documentation.
